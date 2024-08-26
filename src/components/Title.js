@@ -4,12 +4,12 @@ function Title() {
 
     return (
         <div>
-            <div className='title'>
+            <h1 className='title'>
                 Nicholas Herman
-            </div>
-            <div className='subtitle'>
+            </h1>
+            <h2 className='subtitle'>
                 Software Developer
-            </div>
+            </h2>
         </div>
     )
 }

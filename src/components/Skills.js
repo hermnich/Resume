@@ -4,7 +4,7 @@ function Skills() {
 
     return (
         <div className='skills'>
-            <p className='title'>Skills</p>
+            <h2 className='title'>Skills</h2>
             <div className='flex-grid'>
                 <div>Python</div>
                 <div>C/C++</div>
