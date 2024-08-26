@@ -34,13 +34,13 @@ function Contact() {
                     <span className='icon'>
                         <img src={linkedin_icon} alt="linkedin logo" height="15" />
                     </span>
-                    <span>www.linkedin.com/in/nicholas-s-herman</span>
+                    <span>linkedin.com/in/nicholas-s-herman</span>
                 </div>
                 <div className='github'>
                     <span className='icon'>
                         <img src={github_icon} alt="github logo" height="15" />
                     </span>
-                    <span>https://github.com/hermnich/Welcome</span>
+                    <span>github.com/hermnich/Welcome</span>
                 </div>
             </div>
         </div>

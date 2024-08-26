@@ -15,8 +15,12 @@ function Skills() {
                 <div>HTML/CSS</div>
                 <div>SQL</div>
                 <div>x86-Assembly</div>
+                <div>Full-Stack Development</div>
                 <div>Github</div>
                 <div>Git</div>
+                <div>Agile</div>
+                <div>CI/CD</div>
+                <div>TDD</div>
                 <div>Linux</div>
                 <div>PLC</div>
             </div>
