@@ -12,13 +12,39 @@ function Experience() {
             </div>
             <ul>
                 <li>
-                    Designed and configured complex automation systems based on contract
-                    specifications, including creating detailed flow diagrams, sequence of
-                    operations, bill of materials, network layouts, and electrical schematics.
+                    Designed, built, and programmed custom assembly robotics for auto industry customers 
+                    including Rivian, Toyota, and Nissan.
                 </li>
                 <li>
-                    Developed and tested software programs to ensure system operations aligned
-                    with project requirements.
+                    Developed and tested control software programs in a variety of programming languages, 
+                    often interfacing with new, custom APIs.
+                </li>
+                <li>
+                    Designed custom user interfaces to allow machine operators and owners to quickly 
+                    and efficiently control and troubleshoot processes, and conducted site-specific training 
+                    for owners/operators on automation control systems and equipment.
+                </li>
+                <li>
+                    Configured complex automation systems based on contract specifications, including
+                    creating detailed flow diagrams, sequence of operations, bill of materials, 
+                    network layouts, and electrical schematics.
+                </li>
+                <li>
+                    Worked directly with customers to deliver cost-effective solutions while ensuring customer
+                    satisfaction.
+                </li>
+                <li>
+                    Assisted in loading and commissioning system and network-level controllers,
+                    validated complete system functionality, and resolved issues in collaboration
+                    with subcontractors and other trades.
+                </li>
+                <li>
+                    Collaborated on large, interdisciplinary teams to create complex assembly systems, 
+                    contributing to integrated solutions and enhancing project outcomes.
+                </li>
+                <li>
+                    Commissioned equipment in the field to ensure correct, bug-free operation 
+                    from the very start of production.
                 </li>
                 <li>
                     Coordinated the preparation of drawings and equipment schedules to facilitate
@@ -28,32 +54,6 @@ function Experience() {
                     Managed the selection, ordering, and delivery tracking of materials for assigned
                     projects, and oversaw factory-mounting processes to adhere to project
                     timelines.
-                </li>
-                <li>
-                    Assisted in loading and commissioning system and network-level controllers,
-                    validated complete system functionality, and resolved issues in collaboration
-                    with subcontractors and other trades.
-                </li>
-                <li>
-                    Worked effectively on interdisciplinary teams, contributing to integrated
-                    solutions and enhancing project outcomes.
-                </li>
-                <li>
-                    Provided field change information to the project team for as-built drawings and
-                    software updates.
-                </li>
-                <li>
-                    Maintained communication with management and customers to update them
-                    on job progress and address any issues.
-                </li>
-                <li>
-                    Conducted site-specific training for owners/operators on automation control
-                    systems and equipment.
-                </li>
-                <li>
-                    Participated in release meetings with the project field team and performed value
-                    engineering to deliver cost-effective solutions while ensuring customer
-                    satisfaction.
                 </li>
                 <li>
                     Adhered to safety standards, with a strong focus on employee and
