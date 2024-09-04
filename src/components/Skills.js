@@ -13,6 +13,7 @@ function Skills() {
                 <div>node.js</div>
                 <div>React</div>
                 <div>HTML/CSS</div>
+                <div>Android</div>
                 <div>SQL</div>
                 <div>x86-Assembly</div>
                 <div>Full-Stack Development</div>
