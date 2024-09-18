@@ -4,11 +4,12 @@ body {
   justify-content: center;
 }
 
-.resume {
+.resume, .cover {
   width: 8.5in;
   height: 11in;
   font-size: .7rem;
   color: rgb(80, 80, 80);
+  /* border: 1px solid black  */
 }
 
 .flex-col {
@@ -32,11 +33,11 @@ body {
 
 .toppane {
   text-align: center;
-  padding-top: 60px;
+  padding-top: 20px;
   padding-bottom: 20px;
 
   h2 {
-    padding-top: 20px;
+    padding-top: 10px;
   }
 }
 
@@ -93,6 +94,7 @@ h3 {
 
 
 hr {
+  margin: 0px;
   margin-left: 30px;
   margin-right: 30px;
   border: 1px solid rgb(180, 180, 180);
@@ -136,23 +138,50 @@ span {
     margin: 0px;
     padding-left: 20px;
   }
+
+  .company, .location, .date {
+    margin: 5px;
+  }
 }
 
 .skills {
   h2 {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
   .flex-grid div {
-    font-size: .9rem;
+    font-size: .8rem;
     background-color: rgb(165, 165, 165);
     color: white;
-    padding: 8px;
+    padding: 6px;
     margin: 5px;
-    border-radius: 10px;
+    border-radius: 8px;
   }
 }
 
 .linkedin{
   font-size: 0.6rem;
+}
+
+.cover {
+  .midpane {
+    padding: 100px;
+  }
+  .bottompane {
+    padding-left: 100px;
+  }
+
+  h3 {
+    font-size: .8rem;
+    letter-spacing: .2rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+  }
+
+}
+
+.signature {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
