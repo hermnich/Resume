@@ -7,7 +7,7 @@ function Experience() {
             <h2 className='title'>Work Experience</h2>
             <h3 className='jobtitle'>Project Electrical/Software Engineer</h3>
             <div className='flex-row'>
-                <h4 className='company'>R.P. Gatta</h4>
+                <h4 className='company'>rpGatta, Inc.</h4>
                 <span>
                     <span className='location'>Aurora, OH</span>
                     <span className='date'>2020-2022</span>
@@ -65,7 +65,7 @@ function Experience() {
             </ul>
             <h3 className='jobtitle'>Electrical Engineering Intern</h3>
             <div className='flex-row'>
-                <h4 className='company'>OtterTail Power Company</h4>
+                <h4 className='company'>Otter Tail Power Company</h4>
                 <span>
                     <span className='location'>Fergus Falls, MN</span>
                     <span className='date'>2019</span>
