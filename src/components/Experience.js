@@ -73,7 +73,7 @@ function Experience() {
             </div>
             <ul>
                 <li>
-                    Created automation scripts in Pascal, Basic, and Perl for quickly and efficiently runnning hundreds of grid simulations,
+                    Created automation scripts in Pascal, Basic, and Perl for quickly and efficiently running hundreds of grid simulations,
                     greatly reducing the engineering time needed to audit grid loads and blackout potential.
                 </li>
                 <li>
