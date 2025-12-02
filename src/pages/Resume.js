@@ -14,13 +14,14 @@ function Resume() {
         <div className='resume'>
             <div className='toppane'><Title /></div>
             <hr></hr>
-            <div className='flex-row'>
+            <div className='flex-row resume-body'>
                 <div className='leftpane flex-col'>
                     <Contact />
                     <hr></hr>
                     <Education />
                     <hr></hr>
-                    <Reference />
+                    {/* <Reference /> */}
+                    <Skills />
                 </div>
                 <div className='rightpane flex-col'>
                     <Profile />
@@ -28,10 +29,10 @@ function Resume() {
                     <Experience />
                 </div>
             </div>
-            <hr></hr>
-            <div className='bottompane'>
+            {/* <hr></hr> */}
+            {/* <div className='bottompane'>
                 <Skills />
-            </div>
+            </div> */}
         </div>
     )
 }

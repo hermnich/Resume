@@ -6,35 +6,46 @@ function Letter() {
         <div className='letter'>
             <h3>To Whom it may Concern,</h3>
             <p>
-                I am excited to submit my application for the Junior Back End Engineer position at Minware.
-                With a background in developing robust software solutions and a keen interest in observability
-                and performance monitoring, I am enthusiastic about the opportunity to contribute to your innovative 
-                development platform.
+                I am writing to express my interest in the AV Software Developer position at Control Concepts.
+                With a strong foundation
+                in Electrical Engineering and Computer Science, combined with hands-on experience in software and
+                automation engineering, I am excited about the opportunity to contribute to your innovative team.
             </p>
             <p>
-                In my previous role at R.P. Gatta, I gained experience in designing and implementing software 
-                solutions that enhance system visibility and performance. My responsibilities included developing 
-                monitoring tools, optimizing code for efficiency, and collaborating with cross-functional teams to 
-                address complex technical challenges. Through these experiences, I have developed a strong understanding 
-                of the principles of observability, including metrics, tracing, and logging, which I am eager to bring to Minware.
-            </p>
-
-            <p>What particularly draws me to Minware is your commitment to providing actionable insights that 
-                empower development teams to build more robust and reliable software. Your platform’s 
-                focus on real-time observability and in-depth analysis aligns perfectly with my passion 
-                for creating tools that not only meet but exceed user expectations. I am impressed by 
-                Minware’s dedication to transforming how organizations understand and manage their software 
-                environments, and I am excited about the opportunity to contribute to this mission.
+                In my previous role as a Project Electrical/Software Engineer at rpGatta, Inc., I developed and tested
+                software solutions for complex assembly robotics used by major automotive manufacturers such as Rivian,
+                Toyota, and Nissan. This experience not only strengthened my skills in developing control software,
+                ensuring efficient operation, and troubleshooting, but also refined my ability to create intuitive user
+                interfaces that enhance user experience and operational efficiency.
             </p>
             <p>
-                My technical skills include proficiency in programming languages such as Python, C/C++, and 
-                JavaScript. Additionally, my problem-solving abilities and collaborative approach have consistently 
-                enabled me to deliver high-quality software solutions and effectively support team objectives.
+                My technical skills encompass a range of programming languages, including Python, C/C++, and JavaScript,
+                along
+                with experience in full-stack development. I thrive in collaborative environments and have successfully
+                worked with
+                interdisciplinary teams to design and implement custom solutions that align with client specifications.
+                Additionally,
+                my experience with Agile methodologies and CI/CD practices ensures that I deliver high-quality software
+                in a timely
+                manner. My familiarity with control systems and automation, combined with my understanding of
+                audiovisual technology, positions me well to contribute to Control Concepts' commitment to delivering
+                exceptional
+                audiovisual experiences.
             </p>
             <p>
-                I am excited about the possibility of bringing my skills and enthusiasm to Minware and contributing 
-                to the continued success of your observability platform. Thank you for considering my application. 
-                I look forward to the opportunity to discuss how my background and skills align with Minware’s needs.
+                I am particularly drawn to Control Concepts because of your commitment to innovation in AV technology
+                and your emphasis on creating user-friendly solutions. I have had to work with products that do not take
+                integrators into account, to the detriment of the final result, and I am eager to contribute my skills
+                in software
+                development and problem-solving to help your team deliver exceptional products that enhance the AV
+                experience for users.
+            </p>
+            <p>
+                Thank you for considering my application. I look forward to the possibility of discussing how my skills
+                and experiences align with the goals of Control Concepts. I am excited about the prospect of
+                joining your team
+                and
+                contributing to the development of cutting-edge software solutions.
             </p>
         </div>
     )
