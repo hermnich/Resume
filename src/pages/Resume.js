@@ -29,7 +29,7 @@ function Resume() {
                     <Experience />
                 </div>
             </div>
-            {/* <hr></hr> */}
+            <hr></hr>
             {/* <div className='bottompane'>
                 <Skills />
             </div> */}
